@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { FiGithub, FiLinkedin, FiMail, FiExternalLink, FiCode, FiDatabase, FiLayout, FiCpu, FiChevronRight } from 'react-icons/fi';
 import './App.css';
+import SpaceBackground from './components/SpaceBackground';
 
 function App() {
   // Simple scroll reveal effect
@@ -23,6 +24,7 @@ function App() {
 
   return (
     <div className="app">
+      <SpaceBackground />
       <div className="bg-glow"></div>
       <div className="bg-glow right"></div>
 
