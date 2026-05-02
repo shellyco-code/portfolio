@@ -1,16 +1,45 @@
-# React + Vite
+# Shelly Chahar - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, high-quality personal portfolio built with React and Vanilla CSS. It showcases my skills, projects, and experiences with a dark, premium aesthetic and subtle animations.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[View the Live Portfolio Here](https://portfolio-one-mauve-0xt617hru0.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Built With
+- **React.js** (Vite)
+- **Vanilla CSS** (Custom styling with CSS Variables)
+- **React Icons**
+- **Vercel** (Hosting)
 
-## React Compiler
+## 💻 Local Development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+To run this project locally, simply follow these steps:
 
-## Expanding the ESLint configuration
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shellyco-code/portfolio.git
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+## 📫 Let's Connect
+- [GitHub](https://github.com/shellyco-code/)
+- [LinkedIn](https://www.linkedin.com/in/shellychahar/)
+
+---
+*Built with ❤️ by Shelly Chahar*
