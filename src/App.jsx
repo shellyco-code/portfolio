@@ -99,28 +99,28 @@ function App() {
           <h2 className="section-title reveal">Skills</h2>
           <div className="skills-grid">
             <div className="skill-category reveal delay-100">
-              <h3>Programming</h3>
-              <div className="skill-list">
-                <span className="skill-tag">JavaScript</span>
-                <span className="skill-tag">Python</span>
-              </div>
-            </div>
-            
-            <div className="skill-category reveal delay-200">
               <h3>Frontend</h3>
               <div className="skill-list">
-                <span className="skill-tag">HTML5</span>
-                <span className="skill-tag">CSS3</span>
+                <span className="skill-tag">JavaScript (ES6+)</span>
                 <span className="skill-tag">React.js</span>
+                <span className="skill-tag">HTML5 & CSS3</span>
                 <span className="skill-tag">Tailwind CSS</span>
               </div>
             </div>
 
-            <div className="skill-category reveal delay-300">
-              <h3>Backend & DB (Learning)</h3>
+            <div className="skill-category reveal delay-200">
+              <h3>Backend</h3>
               <div className="skill-list">
                 <span className="skill-tag">Node.js</span>
-                <span className="skill-tag">DBMS</span>
+                <span className="skill-tag">Express.js</span>
+              </div>
+            </div>
+
+            <div className="skill-category reveal delay-300">
+              <h3>Databases</h3>
+              <div className="skill-list">
+                <span className="skill-tag">MongoDB</span>
+                <span className="skill-tag">SQL & NoSQL</span>
               </div>
             </div>
 
