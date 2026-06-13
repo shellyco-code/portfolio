@@ -73,10 +73,10 @@ function App() {
           <div className="about-grid">
             <div className="about-text reveal delay-200">
               <p>
-                I am a first-year B.Tech CSE (AI/ML) student at Polaris School of Technology with a strong focus on frontend development (React).
+                I am a first-year B.Tech CSE (AI/ML) student at Polaris School of Technology with experience in Full Stack MERN Development, Database Design, Data Structures & Algorithms, and Foundations of Machine Learning.
               </p>
               <p>
-                Currently, I am learning backend development with Node.js and Data Structures & Algorithms. I am passionate about building real-world products, especially AI-based solutions that solve real problems.
+                I have a strong ability to build scalable web applications, REST APIs, database-driven systems, and AI-powered solutions. I love turning ideas into real-world products.
               </p>
               <ul>
                 <li><FiCpu className="about-icon" /> Part of Entrepreneurship Club, focusing on product thinking</li>
