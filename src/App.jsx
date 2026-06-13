@@ -125,13 +125,27 @@ function App() {
             </div>
 
             <div className="skill-category reveal delay-400">
-              <h3>Tools & Concepts</h3>
+              <h3>DSA</h3>
               <div className="skill-list">
-                <span className="skill-tag">Git</span>
-                <span className="skill-tag">GitHub</span>
                 <span className="skill-tag">Data Structures & Algorithms</span>
-                <span className="skill-tag">OpenAI APIs</span>
-                <span className="skill-tag">UI/UX Design</span>
+              </div>
+            </div>
+
+            <div className="skill-category reveal delay-500">
+              <h3>ML & Data Science</h3>
+              <div className="skill-list">
+                <span className="skill-tag">Python</span>
+                <span className="skill-tag">NumPy & Pandas</span>
+                <span className="skill-tag">Matplotlib & Seaborn</span>
+              </div>
+            </div>
+
+            <div className="skill-category reveal delay-600">
+              <h3>Tools</h3>
+              <div className="skill-list">
+                <span className="skill-tag">Git & GitHub</span>
+                <span className="skill-tag">Postman</span>
+                <span className="skill-tag">VS Code</span>
               </div>
             </div>
           </div>
