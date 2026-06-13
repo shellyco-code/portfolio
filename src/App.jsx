@@ -49,10 +49,10 @@ function App() {
             <span className="hero-greeting fade-in-up delay-100">Hi, I'm</span>
             <h1 className="hero-title fade-in-up delay-200">Shelly <span className="gradient-text">Chahar</span></h1>
             <h2 className="hero-subtitle fade-in-up delay-300">
-              Frontend Developer | Building Full Stack & AI-powered products
+              Computer Science Student | Full Stack MERN Developer | AI/ML Foundations
             </h2>
             <p className="hero-tagline fade-in-up delay-400">
-              I learn by building and turn ideas into real products. Growing through projects, hackathons, and startups.
+              Building scalable web applications, REST APIs, database-driven systems, and AI-powered solutions. Turning ideas into robust, real-world products.
             </p>
             <div className="hero-buttons fade-in-up delay-500">
               <a href="#projects" className="btn btn-primary">
